@@ -1,5 +1,6 @@
 ## Template Engine - Employee Summary
 
+![Screen Shot 2020-04-18 at 9 17 09 PM](https://user-images.githubusercontent.com/41492852/79940227-20fcf700-842f-11ea-98ac-da0bac1b430c.png)
 
 ## Table of Contents
 
